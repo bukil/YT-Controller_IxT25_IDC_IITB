@@ -1,8 +1,11 @@
-# youtube
+# YT-Controller_IxT25_IDC_IITB
 
-![youtube](imgur.com image replace me!)
+Abhishek Benny
+Mukil Kumar
 
-*A short description of the keyboard/project*
+![controller](imgur.com image replace me!)
+
+*A short description of the controller/project*
 
 * Keyboard Maintainer: [mukil](https://github.com/bukil)
 * Hardware Supported: *The PCBs, controllers supported*
@@ -12,9 +15,9 @@ Make example for this keyboard (after setting up your build environment):
 
     make youtube:default
 
-Flashing example for this keyboard:
+Flashing example for this controller:
 
-    make youtube:default:flash
+    make Controller:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
