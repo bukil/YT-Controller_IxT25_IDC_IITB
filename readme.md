@@ -7,13 +7,13 @@ Mukil Kumar
 
 *A short description of the controller/project*
 
-* Keyboard Maintainer: [mukil](https://github.com/bukil)
+* Device Maintainer: [mukil](https://github.com/bukil)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make youtube:default
+    make youtube:via configurable
 
 Flashing example for this controller:
 
